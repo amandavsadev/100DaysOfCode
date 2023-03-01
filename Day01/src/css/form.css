@@ -1,0 +1,83 @@
+.titulo {
+    font-size: 32px;
+    color: #333;
+    font-weight: bold;
+    margin-top: 16px;
+    text-align: center;
+}
+
+.texto-corrido {
+    font-size: 16px;
+    color: #F24405;
+    text-align: center;
+    margin: 8px 0 10px 0;
+}
+
+.formulario {
+    background-color: #FFF;
+    width: 450px;
+    height: 581px;
+    border-radius: 10px 0 0 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    width: 88%;
+}
+
+label {
+    color: #333;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#email,
+#nomeSobrenome,
+#assunto {
+    width: 100%;
+    height: 35px;
+    padding-left: 8px;
+    border-radius: 8px;
+    border: 1px solid #22BABB;
+    margin: 8px 0 20px 0;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+}
+
+#mensagem {
+    margin: 8px 0 20px 0;
+    height: 85px;
+    width: 100%;
+    padding-left: 8px;
+    border: 1px solid #22BABB;
+    border-radius: 8px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+}
+
+#btn {
+    margin-left: 30%;
+    width: 40%;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    background-color: #22BABB;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+#btn:hover {
+    background-color: #159091;
+    cursor: pointer;
+    transform: 0.2s;
+}
+
+spam {
+    color: #F24405;
+}

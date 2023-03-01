@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Contato | Amanda Amorim</title>
+
+    <!--LINK CSS-->
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/base.css">
+    <link rel="stylesheet" href="./src/css/form.css">
+    <link rel="stylesheet" href="./src/css/img.css">
+    <link rel="stylesheet" href="./src/css/responsividade.css">
+
+
+</head>
+<body>
+    <main>
+        <section class="formulario">
+
+            <div class="icon">
+                <img src="./src/img/icon.png" class="mail">
+
+                <h1 class="titulo">Formulário de Contato</h1>
+                <p class="texto-corrido">Preencha corretamente os campos abaixo</p>
+            </div>
+
+            <fieldset>
+        <form action="" method="POST" name="form1">
+         <label class="form-label" for="nomeSobrenome">Nome completo <spam>*</spam></label>
+            <input type="text" id="nomeSobrenome" name="nome" required>
+
+            <label class="form-label" for="email">E-mail <spam>*</spam></label>
+            <input type="email" id="email" name="email" required>
+
+            <label class="form-label" for="mensagem">Mensagem <spam>*</spam></label>
+            <textarea id="mensagem" cols="30" rows="9" name="texto" required></textarea>
+
+            <input type="submit" id="btn" value="Enviar" onclick="return validar()">
+        </form>
+    </fieldset>
+        </section>
+        <section class="imagem">
+            <img src="./src/img/telemarketing.jpg" alt="">
+        </section>
+    
+</main>
+
+    <script src="./src/validacao.js"></script>
+</body>
+</html>

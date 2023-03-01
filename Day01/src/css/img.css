@@ -1,0 +1,10 @@
+.imagem img {
+    width: 450px;
+    border-radius: 0 10px 10px 0;
+}
+
+.mail {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20px;
+}

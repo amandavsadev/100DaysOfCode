@@ -1,0 +1,22 @@
+@media screen and (max-width: 767px) {
+    .imagem img {
+        display: none;
+    }
+
+    .formulario {
+        width: 350px;
+        border-radius: 10px;
+    }
+
+    .titulo {
+        font-size: 28px;
+    }
+
+    .mail {
+        width: 23%
+    }
+
+    form {
+        width: 85%;
+    }
+}
