@@ -5,4 +5,3 @@ Esse projeto foi criado com o objetivo de colocar meus conhecimentos em programa
 ### Day 01 - Formulário de Contato | <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 * [Protótipo no Figma](https://www.figma.com/community/file/1212536441925245235)
 * [Link do Projeto](https://amandavsadev.github.io/100DaysOfCode/Day01)
-* [Imagem do projeto](https://github.com/amandavsadev/100DaysOfCode/blob/main/Imagens%20dos%20projetos/Day01.png?raw=true)
