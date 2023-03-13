@@ -50,6 +50,6 @@ Esse projeto foi criado com o objetivo de colocar meus conhecimentos em programa
 * Criado em 12/03/2023
 * [Link do Projeto](https://amandavsadev.github.io/100DaysOfCode/Day12)
 
-### Day 07 - Botão de Compartilhamento Animado | <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Day 13 - Botão de Compartilhamento Animado | <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 * Criado em 13/03/2023
 * [Link do Projeto](https://amandavsadev.github.io/100DaysOfCode/Day13)
